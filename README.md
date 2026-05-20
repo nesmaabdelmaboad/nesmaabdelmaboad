@@ -44,5 +44,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nesmaabdelmaboad8@gmail.com)
 
 Thanks for visiting! Let's connect and build something amazing together.
-
-Thanks for visiting! Let's connect and build something amazing together.
