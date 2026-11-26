@@ -42,7 +42,7 @@ A marketplace connecting customers with tailors to request and manage customized
 - **Authorization:** Role-based and Permission-based Authorization.
 - **Tools & Libraries:** Mapster, Serilog, OpenAPI, Scalar.
 
-### [EduBridge — University Team Collaboration Platform](https://github.com/nesmaabdelmaboad/EduBridge)
+### 🎓 [EduBridge — University Team Collaboration Platform](https://github.com/nesmaabdelmaboad/EduBridge)
 
 A platform connecting students and academic staff to manage graduation projects, form teams, and collaborate on project ideas.
 
