@@ -1,15 +1,20 @@
 
 # Hi, I'm Nesma AbdelMaboud 👋
 
-**.NET Backend Developer | .NET Mentor at CIS Team MU**
+**.NET Backend Developer | Software Engineering Student | .NET Mentor**
 
-Building backend systems with ASP.NET Core, with a focus on software architecture, clean code, and maintainability.
+## 👩‍💻 About Me
 
-Currently working on **Focus Lens** and pursuing my final year at Mansoura University.
+- 🎓 Final-year Software Engineering student at FCIS, Mansoura University — Class of 2027.
+- 💻 Backend Developer specializing in C#, ASP.NET Core, and RESTful APIs.
+- 🚀 Currently working on **Focus Lens** and **Fasally**.
+- 👩‍🏫 .NET Mentor at CIS Team MU.
+- 🌱 Interested in software architecture, design patterns, and clean code.
+- 💬 Ask me about **C#, .NET, SQL Server, and Backend Development**.
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
 <h3>
   <img src="./assets/focuslens-mascot.png" height="40" align="absmiddle" alt="">
