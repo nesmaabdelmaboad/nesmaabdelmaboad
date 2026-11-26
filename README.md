@@ -12,7 +12,7 @@ Currently working on **Focus Lens** and pursuing my final year at Mansoura Unive
 ## 📂 Projects
 
 <h3>
-  <img src="./assets/focuslens-mascot.png" width="24" align="absmiddle" alt="">
+  <img src="./assets/focuslens-mascot.png" height="40" align="absmiddle" alt="">
   Focus Lens — AI-Powered Student Focus Platform
 </h3>
 
@@ -25,7 +25,7 @@ An educational platform featuring AI-powered study sessions, behavior analysis, 
 - **Integration & Validation:** AI-powered study services, FluentValidation.
 
 <h3>
-  <img src="./assets/fasally.jpg" width="24" align="absmiddle" alt="">
+  <img src="./assets/fasally.png" height="40" align="absmiddle" alt="">
   Fasally — Custom Tailoring Marketplace
 </h3>
 
