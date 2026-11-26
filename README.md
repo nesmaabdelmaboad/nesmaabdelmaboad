@@ -5,12 +5,12 @@
 
 ## 👩‍💻 About Me
 
-- 💻 Backend Developer specializing in C#, ASP.NET Core, and RESTful APIs.
-- 👩‍🏫 .NET Mentor at CIS Team MU.
-- 🎓 Final-year Software Engineering student at FCIS, Mansoura University — Class of 2027.
-- 🚀 Currently working on **Focus Lens** and **Fasally**.
-- 🌱 Interested in software architecture, design patterns, and clean code.
-- 💬 Ask me about **C#, .NET, SQL Server, and Backend Development**.
+- Backend Developer specializing in C#, ASP.NET Core, and RESTful APIs.
+- .NET Mentor at CIS Team MU.
+- Final-year Software Engineering student at FCIS, Mansoura University — Class of 2027.
+- Currently working on **Focus Lens** and **Fasally**.
+- Interested in software architecture, design patterns, and clean code.
+- Ask me about **C#, .NET, SQL Server, and Backend Development**.
 ---
 
 ## 📂 Featured Projects
